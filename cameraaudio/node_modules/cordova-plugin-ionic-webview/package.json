@@ -1,0 +1,104 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-ionic-webview@^2.0.0",
+      "/home/nayan/Drive/cameraaudio"
+    ]
+  ],
+  "_from": "cordova-plugin-ionic-webview@>=2.0.0 <3.0.0",
+  "_id": "cordova-plugin-ionic-webview@2.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-ionic-webview",
+  "_nodeVersion": "10.9.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-ionic-webview_2.1.0_1535030301727_0.7503871233243018"
+  },
+  "_npmUser": {
+    "email": "nick@ionic.io",
+    "name": "nhyatt"
+  },
+  "_npmVersion": "6.2.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-ionic-webview",
+    "raw": "cordova-plugin-ionic-webview@^2.0.0",
+    "rawSpec": "^2.0.0",
+    "scope": null,
+    "spec": ">=2.0.0 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ionic-webview/-/cordova-plugin-ionic-webview-2.1.0.tgz",
+  "_shasum": "0e3469472dc6115a84f064eceb0f28f56bb1496a",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ionic-webview@^2.0.0",
+  "_where": "/home/nayan/Drive/cameraaudio",
+  "author": {
+    "name": "Ionic Team"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/cordova-plugin-ionic-webview/issues"
+  },
+  "dependencies": {},
+  "description": "The official Ionic's WKWebView Engine Plugin",
+  "devDependencies": {
+    "np": "^3.0.4",
+    "sync-cordova-xml": "^0.4.0"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 49,
+    "integrity": "sha512-WZ+gRzDOBg12HC+RhpgaXtovGstKhNu2KPIxPIaHbcHo1GZq63dXSjMCZEJk+s2bP7tYLqH0Q4mfDs1SmRWNBg==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbfrQeCRA9TVsSAnZWagAACvUQAJCqmvIINz1kgTahnOql\nzgm1DVI/J46rZX+3/bDNU3lWEPMg7kUUR1bSQb3itICLD6rwChXjMvMz70Q9\nyYcv+T6/YSXfU7ZQnOVpcIqL3QVo49hluxSX5tqDiqbzmXCO8Ox+dF8kMPnG\nXgkd/HgMmNVokkLqUWMtGRtcePj1X+II7l4wUw950FcPhK3R4Bh8M/8C3p0w\nF6MGxnivCGN8jr+kgkAMEiPpNVkJvbzgK2Spe6EAWm7zHA322qvYNz4IsN29\nq7Ww17jLNxe+vXbEetNjHsaVB4n3snMURQPGJQuP/DSABaKTzqw5BguUlU1n\nTyaW3xmFhU6l6cCj2AqSjx8VgyIqdIIuSWsRAIk2OBH9pf4Xa6hbHq6EhYAS\n3SMzBX9JrFo31EM1tqew+XTYaEQkI017+Nd+BfrhdOAoAKanWVbUsJVnvcPU\n7DSgeIEn/jZ8Noo0hiu9pgMYdvZsP2KJC9u6ADDolFpNgeOZ3AJllKXDCK15\nrlPr0CrjkgqhGYCZlz4Wy/b7bZ3W21q5UZirPXn0ndEpuOU9oZapRAZMytVV\nvSsHfZ5WMzwMc3fEmUDOaJOBJtZpKlQ0B3AOX1Z+o3Y8PvUZEUWxsrV5zTNw\nxmtNfMfdq5jYjU1JDe4qo7cOvNk+oC6myRlkM9pc/007aueTYAkgdTzzEj9J\nMZ4Q\r\n=eP/o\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "0e3469472dc6115a84f064eceb0f28f56bb1496a",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ionic-webview/-/cordova-plugin-ionic-webview-2.1.0.tgz",
+    "unpackedSize": 368845
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": {
+        "cordova-android": ">=6.4.0",
+        "cordova-ios": ">=4.0.0-dev"
+      }
+    }
+  },
+  "gitHead": "5d49c1226acb3910965e2adff9edc7c7e0f886fc",
+  "homepage": "https://github.com/ionic-team/cordova-plugin-ionic-webview#readme",
+  "keywords": [
+    "cordova",
+    "wkwebview"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "manucorporat",
+      "email": "manu.mtza@gmail.com"
+    },
+    {
+      "name": "maxlynch",
+      "email": "max@ionic.io"
+    },
+    {
+      "name": "nhyatt",
+      "email": "nick@ionic.io"
+    }
+  ],
+  "name": "cordova-plugin-ionic-webview",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/cordova-plugin-ionic-webview.git"
+  },
+  "scripts": {
+    "deploy": "np --yolo",
+    "sync_plugin_xml": "sync-cordova-xml package.json plugin.xml --output=plugin.xml",
+    "version": "npm run sync_plugin_xml && git add plugin.xml"
+  },
+  "version": "2.1.0"
+}
